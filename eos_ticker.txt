@@ -1,0 +1,9 @@
+{'instrument_id': 'EOS-USD-190329', 'last': '2.53', 'best_bid': '2.53', 'best_ask': '2.531', 'high_24h': '2.725', 'low_24h': '2.439', 'volume_24h': '123442144', 'timestamp': '2018-12-21T09:17:59.998Z'}
+{'instrument_id': 'EOS-USD-190329', 'last': '2.529', 'best_bid': '2.528', 'best_ask': '2.529', 'high_24h': '2.725', 'low_24h': '2.439', 'volume_24h': '123383760', 'timestamp': '2018-12-21T09:18:23.879Z'}
+{'instrument_id': 'EOS-USD-190329', 'last': '2.512', 'best_bid': '2.512', 'best_ask': '2.513', 'high_24h': '2.725', 'low_24h': '2.439', 'volume_24h': '120901868', 'timestamp': '2018-12-21T09:44:02.355Z'}
+{'instrument_id': 'EOS-USD-190329', 'last': '2.512', 'best_bid': '2.512', 'best_ask': '2.513', 'high_24h': '2.725', 'low_24h': '2.439', 'volume_24h': '120902526', 'timestamp': '2018-12-21T09:44:04.169Z'}
+{'instrument_id': 'EOS-USD-190329', 'last': '2.513', 'best_bid': '2.513', 'best_ask': '2.514', 'high_24h': '2.725', 'low_24h': '2.439', 'volume_24h': '120924126', 'timestamp': '2018-12-21T09:44:15.060Z'}
+{'instrument_id': 'EOS-USD-190329', 'last': '2.514', 'best_bid': '2.513', 'best_ask': '2.514', 'high_24h': '2.725', 'low_24h': '2.439', 'volume_24h': '120900166', 'timestamp': '2018-12-21T09:45:15.459Z'}
+{'instrument_id': 'EOS-USD-190329', 'last': '2.516', 'best_bid': '2.515', 'best_ask': '2.516', 'high_24h': '2.725', 'low_24h': '2.439', 'volume_24h': '120908888', 'timestamp': '2018-12-21T09:45:53.347Z'}
+{'instrument_id': 'EOS-USD-190329', 'last': '2.48', 'best_bid': '2.479', 'best_ask': '2.48', 'high_24h': '2.725', 'low_24h': '2.439', 'volume_24h': '97318238', 'timestamp': '2018-12-21T20:24:35.083Z'}
+{'instrument_id': 'EOS-USD-190329', 'last': '2.479', 'best_bid': '2.479', 'best_ask': '2.481', 'high_24h': '2.725', 'low_24h': '2.439', 'volume_24h': '97254632', 'timestamp': '2018-12-21T20:30:12.947Z'}
